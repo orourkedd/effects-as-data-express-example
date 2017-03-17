@@ -3,6 +3,11 @@ Install
 npm install
 ```
 
+Test
+```
+npm test
+```
+
 Start Server
 ```
 npm start
