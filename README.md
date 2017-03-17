@@ -1,3 +1,13 @@
+Install
+```
+npm install
+```
+
+Start Server
+```
+npm start
+```
+
 Write a message to a file called `user-data.txt`:
 
 ```
