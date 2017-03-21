@@ -17,7 +17,7 @@ Write a message to a file called `user-data.txt`:
 
 ```
 curl -X POST -H "Content-Type: application/json" -d '{
-	"message": "Hi, Bressain!"
+	"message": "Hello World!"
 }' "http://localhost:3456/"
 ```
 
